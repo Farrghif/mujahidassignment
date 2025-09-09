@@ -19,7 +19,7 @@ $cuaca = new CuacaView();
 
         <table border="1">
             <tr>
-                <th>id</th>
+                <th>ID</th>
                 <th>kota</th>
                 <th>tanggal</th>
                 <th>suhu</th>
